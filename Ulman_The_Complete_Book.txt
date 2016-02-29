@@ -1,0 +1,6 @@
+Exercises for Section 2.2
+
+2.2.1
+a) Movies: title, year, length, genre, studioName, producerC#
+   MovieStar: name, address, gender, birthdate
+   StarsIn: movieTitle, movieYear, starName
